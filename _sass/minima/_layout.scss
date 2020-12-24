@@ -216,3 +216,14 @@
     }
   }
 }
+
+/* tag page */
+.archive-tags {
+  height: auto;
+  .tag-item {
+    padding: 1px 3px;
+    border-radius: 2px;
+    border: 1px solid rgba(128, 128, 128, 0.1);
+    background-color: rgba(128, 128, 128, 0.1);
+  }
+}
