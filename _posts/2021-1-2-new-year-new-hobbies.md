@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New year new hobbies?
-date: 2021-01-02 22:00:00 -07:00
+date: 2021-1-2 22:00:00 -07:00
 categories: hobbies
 tags: [hobbies]
 ---
