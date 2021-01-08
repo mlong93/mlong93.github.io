@@ -2,8 +2,8 @@
 layout: post
 title: Witnessing history
 date: 2021-01-06 22:00:00 -07:00
-categories: history, thoughts
-tags: [history, thoughts]
+categories: history, thoughts, today
+tags: [history, thoughts, today]
 ---
 
 Today was a pivotal day in US history and world history. The country/capital the entire world looks up to, the so-called "city upon a hill" that William Bradford foresaw, had just been reduced to a riotous, undemocratic scene that this country condemend and even started invasions as a result of.
