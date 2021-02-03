@@ -26,7 +26,7 @@ Things I did the last week of IAP (in sort of chronological order):
 
     I spent almost 24 hours on Sat. and Sun. working on a quantum annealing project relating to vaccine distribution with my team, SK and EP. I spent a lot of time on qBraid, and I even bluescreened a quantum computer (sorry DWave). This was a lot more intense than iMUSE and though we didn't win anything, I thought it was a rewarding experience. It's nice to be on the flipside of a hackathon.  
 
-    Here's a link to a Medium article I wrote about the project. Also, check out our [repo](https://github.com/iQuHACK/2021_1206). Hopefully I have time to fork it and improve our QUBOs in the next 2 weeks.
+    [Here](https://medium.com/mit-6-s089-intro-to-quantum-computing/optimizing-covid-19-vaccine-distribution-using-quantum-annealing-b1b829d97784)'s the Medium article I wrote about the project. Also, check out our [repo](https://github.com/iQuHACK/2021_1206). Hopefully I have time to fork it and improve our QUBOs in the next 2 weeks.
 
 7. Not started by the time this post is published: my final homework for 6.s090 that's due at 8 AM my time on Tuesday.
 
