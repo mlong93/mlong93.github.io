@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Junior fall
-date: 2021-12-15 12:17:00 -06:00
+date: 2021-12-15 04:52:00 -06:00
 categories: reflections
 tags: [reflections]
 ---
@@ -34,25 +34,25 @@ I took 3.091 (PNR), 6.UAT (9 units), 6.002, 6.804, and CHNSLIT 114 this semester
 # 3.091
 The most work I did for this class was showing up to my 9 AM recitation and making my cheat sheets for the three midterms. I came into this semester imagining that I would actually try because materials science has always sounded cool to me. Then I realized I simply could not. The class was basically condensed AP Chemistry plus more. There was a material structure unit that I never learned before but somehow still passed. From my glances at the syllabus, I learned that the organic chemistry unit was very involved.
 
-My biggest takeaway from this class is that I am jaded. The problems on the exams and homeworks were very simple, AP Chemistry-l evel questions. I remember acing those questions back in high school and finding the material very easy. No w though, it's not that I'm incapable of solving those same questions but more as if I've stopped trying to. I c an't bring myself to find that same motivation to learn about materials, solubility, and organic molecules. It' s so sad how much internal drive -- the *edge*, as a friend likes to call it -- I've lost since high school. 
+My biggest takeaway from this class is that I am jaded. The problems on the exams and homeworks were very simple, AP Chemistry-level questions. I remember acing those questions back in high school and finding the material very easy. Now though, it's not that I'm incapable of solving those same questions but more as if I've stopped trying to. I can't bring myself to find that same motivation to learn about materials, solubility, and organic molecules. It's so sad how much internal drive -- the *edge*, as a friend likes to call it -- I've lost since high school. 
  
 # 6.UAT 
-I thought this class w ould be a walk in the park since I did public forum debate in high school. Little did I know it would not be.  I was actually resolved to accept a B in this class until two nights ago I decided to look at my grade on the fin al presentation, which I didn't try much on given that I thought I knew I was going to get a B, and manually calc ulated out my grade to find I snagged an A by 0.025 points. I entered the grading equation into my calculator twi ce just to make sure I didn't see that wrong. Turns out, I somehow managed to get an A. I'll attribute this to  my amazing TA who definitely pulled hard.
+I thought this class would be a walk in the park since I did public forum debate in high school. Little did I know it would not be.  I was actually resolved to accept a B in this class until two nights ago I decided to look at my grade on the final presentation, which I didn't try much on given that I thought I knew I was going to get a B, and manually calculated out my grade to find I snagged an A by 0.025 points. I entered the grading equation into my calculator twice just to make sure I didn't see that wrong. Turns out, I somehow managed to get an A. I'll attribute this to  my amazing TA who definitely pulled hard.
  
-Basically grading for  this class is extremely subjective, and the lead instructor has made a set of criteria each talk will be grad ed on. Personally I've crafted and given my fair share of technical talks and presentations thanks t o my science fair days in high school so I didn't struggle much on elements such as storyboarding, signpos ting, and responding to audience questions. I was graded extremely harshly on my lack of gestures, my tendencey  to end my sentences on an uptone, and my use of filler words. 
+Basically grading for  this class is extremely subjective, and the lead instructor has made a set of criteria each talk will be grad ed on. Personally I've crafted and given my fair share of technical talks and presentations thanks to my science fair days in high school so I didn't struggle much on elements such as storyboarding, signposting, and responding to audience questions. I was graded extremely harshly on my lack of gestures, my tendency to end my sentences on an uptone, and my use of filler words. 
  
 This class is a lot of  busywork, which reminded me a lot of high school classes. I should've done a SuperUROP or taken another CI-M. 
  
 # 6.002 
-Circuits. I told mysel f this was going to be the first class I tried to really understand at MIT. The past four semesters I felt like  have been just me trying to complete a class to get an A. 6.002 was going to be the first class I put my heart i nto. That I did.
+Circuits. I told mysel f this was going to be the first class I tried to really understand at MIT. The past four semesters I felt like  have been just me trying to complete a class to get an A. 6.002 was going to be the first class I put my heart into. That I did.
  
-I made sure I understo od each pset problem, studied my butt off for the exams, and went to office hours each week. Originally durin g the labs I was just rushing to get my checkoff in time but then I realized what we were doing in lab was actua lly content covered in lectures (and therefore exams) so I slowed down and tried to conceptually understan d what was going on.
+I made sure I understood each pset problem, studied my butt off for the exams, and went to office hours each week. Originally during the labs I was just rushing to get my checkoff in time but then I realized what we were doing in lab was actually content covered in lectures (and therefore exams) so I slowed down and tried to conceptually understand what was going on.
  
-I liked to joke with a nother friend of mine in this class that circuits were therapeutic. Throughout the course of this semester, I le arned they really are. I cannot stop solving a circuit once I've started. I can't stand the feeling of incompl eteness. In addition, before I only learned about these circuit elements from the context of physics. I never un derstood how electrical engineering could be any different. Now I see that electrical engineers manipulate t hose elements to create exceedingly complex devices that basically run our everyday lives. It's crazy how alterin g something as simply as the ratio between two resistors can completely change the behavior of a circuit.  
+I liked to joke with another friend of mine in this class that circuits were therapeutic. Throughout the course of this semester, I learned they really are. I cannot stop solving a circuit once I've started. Before I only learned about these circuit elements from the context of physics. I never un derstood how electrical engineering could be any different. Now I see that electrical engineers manipulate t hose elements to create exceedingly complex devices that basically run our everyday lives. It's crazy how altering something as simply as the ratio between two resistors can completely change the behavior of a circuit.  
  
-Circuits have been the  single constant of my semester. Once during a particularly bad week socially during the semester, solving circ uits was the only thing that got my mind off the outside world. I ended up doing great on the midterm that week. 
+Circuits have been the  single constant of my semester. Once during a particularly bad week socially during the semester, solving circuits was the only thing that got my mind off the outside world. I ended up doing great on the midterm that week. 
  
-Needless to say, I'm m aking a hard EE pivot. Thanks MLL (I know you're reading this) for holding me accountable on being a real 6-2. N ow I will be delving into the EE world on my own volition. 
+Needless to say, I'm making a hard EE pivot. Thanks MLL (I know you're reading this) for holding me accountable on being a real 6-2.
  
 Also I got to meet a lot of new people through this class. Shoutout to women in STEM! 
 
@@ -61,7 +61,7 @@ I signed up for this class because I thought I would be learning about how to de
 
 The professor, Josh Tenenbaum, is a legendary figure in the field of computational cognitive science. Each lecture was essentially a recap on one of his papers. I can count the number of lectures I attended on one hand. I virtually learned nothing in this class other than how to program in WebPPL. It is a super chill class though (3 psets, 1 optional pset + final project). 
 
-Shoutout to my 2 project partners for letting me tag onto their project and carrying me. Honestly they were pretty cool and can model nearly anything.
+Shoutout to my 2 project partners for letting me tag onto their project and carrying me. They are pretty cool and can model nearly anything.
 
 # CHNSLIT 114
 This was the first, and hopefully not the last, Harvard class I preregistered for. This class was also the reason I never attended any 6.002 lectures.
@@ -72,7 +72,7 @@ A lot of people look at me weird when I tell them I'm cross-registered at Harvar
 
 Back to the class. Harvard lecturers hit different. Prof. Tian is an amazing lecturer. Maybe it's because I'm actually interested in the subject (premodern Chinese literature) but I'm sitting on the edge of my chair each class. Originally I had imposter syndrome because the class is mostly grad students, international grad students who grew up in China. Also to top it off it's a Harvard class and the Harvard kids are leagues ahead of me in humanities right? Sometime throughout the semester though the imposter syndrome slipped out the door. Sure there were some students who had crazy insightful commentary into the texts that I would never come up with on my own but I realized that my writing and analysis wasn't that bad either. 
 
-For the final project I could've made a powerpoint presentation or written a play or short story or poem in the style of one of the works we read this semester. I knew everyone would be writing something so I decided to do something different and make a short film instead. That was an interesting experience. I taught myself how to use a camera properly, plan shot sequences, and how to properly edit videos. My end product is still jank but my professor loved it so at least I got a good grade.
+For the final project I could've made a powerpoint presentation or written a play or short story or poem in the style of one of the works we read this semester. I knew everyone would be writing something so I decided to do something different and make a short film instead. That was an interesting experience. I taught myself how to use a camera properly, plan shot sequences, and how to properly edit videos. My end product is still jank but my professor loved it at least.
 
 I'm excited to take more classes at Harvard. Even if I'm not that interested in the subject I feel like the lecturer matters a lot more. Plus why not take advantage of the fact that I'm allowed to cross-register at the best liberal arts institution in the world?
 
@@ -104,10 +104,10 @@ I owe a large part of my personal growth to my friends. It's quite obvious that 
 This semester I got to know people who are actually passionate about what they're doing. Their dreams come in all shapes and sizes but the key thing is they have dreams and they're willing to chase them. Previously I was in a very preprofessional mindset, focused on the next big internship or UROP. I was in preprofessional clubs that contained people who were pretty similar to me in that sense as well. I thought that was normal.
 
 This semester though, I found myself. I joined The Tech and realized 
-1. I had thoughts I didn't even realize 
+1. I had thoughts I didn't even realize.
 2. I had a platform to voice those thoughts.  
 
-I found the Mindy I didn't even realize was buried the second I started BASIS. I found the person the MIT admissions office probably thought they admitted.
+I found the person the MIT admissions office probably thought they admitted.
 
 If you know me, you probably know that I'm a history geek. That I'm greatly moved by Buddhist notions of transience and embarrassingly emotional over movies and quotes and anything that is meant to be felt. Mountains are my solace. Cassical Chinese poetry calms me, building a city in space entices me, and books define me. I've never been content with a career as a software engineer at a tech company or a management role at some large corporation. I've always wanted something more fulfilling and impactful. 
 
@@ -122,9 +122,9 @@ I wanted to meet people who had all sorts of goals and motivations. It could be 
 
 This is not to discredit those who do because honestly those are valid goals. Who wouldn't want stability and security and a life at the top?
 
-For me though, that's not enough. I could never be satisfied with a life like that. I'm just crazy and refuse to settle for such, contrary to what my immigrant Asian parents raised me to believe. I'm cursed with this need for more -- more meaning, more fulfillment, more straying off the beaten path. 
+For me though, that's not enough. I could never be satisfied with that. I'm just crazy and refuse to settle for such, contrary to what my immigrant Asian parents raised me to believe. I'm cursed with this need for more -- more meaning, more fulfillment, more straying off the beaten path. 
 
-At least that's what I used to believe. Now I see it less of a curse and more of a source of pride. I should be happy that I'm more willing to take risks than others. I should be happy that I have a passion for things. I should be happy that I dare to dream and chase those dreams. It's not something to be ashamed of.
+At least that's what I used to believe. Now I see it less of a curse and more of a source of pride. I should be happy that I'm more willing to take risks than others. I should be happy that I have a passion for things. It's not something to be ashamed of.
 
 # People (again)
 Because it's all about the people. Before I talked to the Rhodes scholar, I realized the people I got to know better this semester were different. More motivated by intrinsic intangibles than extrinsic awards. They might be majoring in the classic course 6 but there's something more driving them. They want their own robotics startup, make an impact on the world with their technology, become a filmmaker even. I'll probably be writing more about them in my 2021 recap post later so don't want to say too much here.
@@ -134,4 +134,4 @@ It's all got me thinking about my own future plans. I don't really know exactly 
 
 I also want to be a hermit. Live alone in the mountains. New Zealand, the Canadian Rockies, and the Alps all sound nice. Only my personal library to keep me company.
 
-But I also want to travel the world and see all there is that can be seen. All the vestiges of past civilizations, see the lives and dreams of people who have since passed. I want to see and hear and live other people's stories. Maybe I'll find even prettier mountains and landscapes.
+But I also want to travel the world and see all there is that can be seen. All the vestiges of past civilizations, see the lives and dreams of people who have since passed. I want to see and hear and live more human stories. Also I'd probably get to see more mountains. 

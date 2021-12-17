@@ -6,7 +6,7 @@ categories: history, thoughts, today
 tags: [history, thoughts, today]
 ---
 
-Today was a pivotal day in US history and world history. The country/capital the entire world looks up to, the so-called "city upon a hill" that William Bradford foresaw, had just been reduced to a riotous, undemocratic scene that this country condemend and even started invasions as a result of.
+Today was a pivotal day in US history and world history. The country/capital the entire world looks up to, the so-called "city upon a hill" that William Bradford foresaw, had just been reduced to a riotous, undemocratic scene that this country condemned and even started invasions as a result of.
 
 As an amateur historian, I can think of two implications of the events that transpired. 
 
