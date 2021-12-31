@@ -1,10 +1,18 @@
 ---
 layout: post
 title: December 2021 books
-date: 2021-12-20 22:00:00 -07:00
+date: 2021-12-31 16:00:00 -07:00
 categories: books
 tags: [books]
 ---
+# Table of Contents
+1. [*Birdsong*](#birdsong-sebastian-faulks)
+2. [*The Stranger*](#the-stranger-albert-camus)
+3. [*To Hold Up the Sky*](#to-hold-up-the-sky-liu-cixin)
+4. [*Beartown*](#beartown-fredrik-backman)
+5. [*Anna Karenina*](#anna-karenina-leo-tolstoy)
+
+
 # *Birdsong*, Sebastian Faulks
 This was a terrible book. 1.5/5 stars. Review soon to come in The Tech.
 
@@ -153,3 +161,32 @@ The astronomer then realizes that since the universe is always expanding, a cosm
 
 I liked this story again because of the juxtaposition of the Grand and the Small. The universe is so vast that it will never have a true experience yet it is ultimately finite. On the other hand, our brains that fit inside our skulls are inifinitely rich in thoughts. It's refreshing to see that despite Liu's grand views of space, he still believes humans are infinitely more complex and beautiful.
 
+# *Beartown*, Fredrik Backman
+A couple friends have recommended me this book over the past few years and I finally got around to reading it. It's really, really good and extremely accurate in summing up the effect of sports on a small town. The two main themes are inequality, winning, masculinity.
+
+The book starts off slow, which is good, because it builds each character's backstory. There's a whole cast: the former hockey star, the new hockey star, the poor kid who has always been overlooked but is actually a secret star, the old school coach, the new coach, the bully, the bullied, the jock who hasn't come out of the closet yet, the coach's daughter who has no interest in hockey, etc. The list goes on. It's really a wonder how Backman was able to tell each of their stories so succinctly yet so fully so that the story felt neither rushed nor too crowded. Each of the characters represents a different part of Beartown, and each of them are affected by hockey a different way. Honestly it reminded me of *Sex Education*.
+
+Onto the themes. First, inequality. Beartown is a microcosm. There are the have's (the Heights) and the have-not's (the Hollows). Those who play hockey and those who don't. Those who are destined to sludge away in the town's factory after graduation and those with a brighter future, farther away. However, it's more complicated than surface-level inequality. Kevin is rich and possesses NHL-level talent but at home he is bereft of love and emotion. His best friend Benji is poor and lives alone with his mother after his father took his own life with a pistol in the woods one day but is raised with love by his mother and three older sisters. I could go on but basically, everyone is complex and not who they seem on the surface.
+
+Second, winning. There is nothing in Beartown, and it's a place so accustomed to losing that it is only focused on winning. All hopes on winning are tied to its youth hockey team, a group of 17 year old boys who are told only to win at all costs. And win they do. The novel then explores how far so many people desperate for something will go to win. Even if it means suppressing a rape of an underage girl by the star hockey player. 
+
+Third, masculinity. This goes hand in hand with winning. From a young age, the boys are told that they are bears and bears don't lose. They do whatever it takes to win. It doesn't help that the club board and sponsors reflect this culture of toxic masculinity as well. Kira, wife of Peter, the club's general manager, recalls the first time she went to a club formal and was treated as a servant despite being Peter's wife and a career lawyer. That was the last time she attended one of their events. These powerful men frequently demean women from the stands. In Beartown in general, the narrator comments how hockey is only for boys and girls are only involved if 1) they are fans or 2) they are trophies for the winning boys on the team. Before Maya is raped, William Lyt bets Kevin that Kevin won't be able to sleep with Maya at an afterparty. Then of course, there's the problem of victim shaming and protecting the boy at all costs, especially since the boy is going to restore Beartown to its former glory. 
+
+# *Anna Karenina*, Leo Tolstoy
+This book is anything but a love story. A lot of us have grown up hearing the tragic tale of Anna Karenina, who fell in love with the young Count Vronsky despite her existing marriage and throws herself underneath a train. Personally, I believe Tolstoy explored the clash between the old and the new in Russia through the lens of this romance and the characters that surround them.
+
+To understand the novel, we must first understand Russia. Originally a collection of princedoms centered around Kiev united by their Orthodoxy religion and Slavic origin, through a series of marriages and alliances the kingdoms and duchies became united in 1547 as the tsardom of Russia. For centuries, Russia was considered the backwater of Europe, always there but uneducated and uncultured. Through much of its history, boyars or nobles held most if not all the political influence in the kingdom after the tsar. More than 90 percent of the population consisted of serfs, or peasants who were literally enslaved to the land. All this changed during the reign of Peter the Great, who ruled from 1682 to 1725. After a tour of Europe, he sought to modernize his kingdom and put an end to Russia being the laughingstock of Europe. In the century and a half following his death, Russia grappled with implementing new reforms and adopting Western manners. In 1861, Alexander II abolished serfdom. However, Westernization was only visible in cities and among the aristocracy. The novel picks up this struggle between the old and the new, the Russia and the West, the urban and the rural.
+
+Anna Karenina, married to a renowned St. Petersburg politician, is a Society woman, which is to say she's a rich housewife who participates in the elite social circles of the time. She falls in love with a charming young officer, Count Vronsky, on a visit to Moscow. Vronsky is young, extravagant, and brash and represents the new nobility that arose in Russia at the time. While Anna is supposed to be a devoted wife and mother to maintain her husband's political reputation, she puts her own interests first in her relationship with Vronsky. This struggle between the the service of family and the service of self torments Anna throughout the novel. Anna is a modern woman in a conservative world. Dolly, Anna's sister-in-law, on her way to visit Anna, reflects on Anna's lifestyle and choices: "Everybody lives, everybody enjoys living" (p. 546). Of course, while on the surface Anna may seem happy, she is actually tormented by her choice to leave her husband and son.
+
+The other half of the book follows a wealthy landowner Levin, who prefers the company of peasants to that of Society. He is troubled by his quest for meaning in life and the role of God. His internal struggle on the old and new is related agriculture. He wants his peasants to adopt new agricultural technology from the West but also theorizes that the unique relation between the Russian peasant and his/her land hinders modernization. In terms of politics though, Levin could not be bothered by the battle between the conservative and liberal landowners and during the provincial elections, is heard asking his stepbrother who he should vote for (p. 586). After his marriage to Kitty, he is constantly preoccupied by his need to understand the purpose of his life. The book concludes with his "enlightenment" after a conversation with a peasant, through whom he realizes the meaning of life is to live for good and live for God (pp. 715-717).
+
+Some brief notes on the characters: 
+- Dolly and Anna are foils imo. 
+    - Dolly: husband cheats on her, doting mother of six children, worried about her family's expenses and the raising of her children, still loves her husband
+    - Anna: cheats on her husband, negligent mother to her daughter with Vronsky (but loving to her son with her husband), doesn't love her husband, flirts with men to test her charm
+- Oblonsky and Levin are foils.
+
+I also want to comment on Tolstoy's writing. His prose is direct, simple, long, but still incredibly enticing. The narrator knows the thoughts of each character and as a result there are passages from the point-of-view of Kitty, Dolly, Koznyshev, a dog, and many more minor characters. A couple pages (pp. 223-230) are devoted entirely to descriptions of scythe mowing yet are deeply interesting. This is my first Russian novel and I definitely find this style of writing more attractive than the long, droning sentences of British novels of this time.
+
+Overall, 5/5. One of my top 10, even top 5 books.
