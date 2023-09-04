@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New chapter
-date: 2023-09-04 12:00:00 -07:00
+date: 2023-09-04 11:59:00 -07:00
 categories: reflections
 tags: [reflections]
 ---
