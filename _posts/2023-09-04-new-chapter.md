@@ -1,0 +1,40 @@
+---
+layout: post
+title: New chapter
+date: 2023-09-04 12:00:00 -07:00
+categories: reflections
+tags: [reflections]
+---
+
+I returned to Cambridge a lot sooner than I expected. I flew into Boston Logan on the morning of August 26. The strange thing was, I wasn't excited. In fact, I was sad. 
+
+I took a red-eye from SFO, and the night I flew out, I had a very small, impromptu house-warming with friends in SF who were leaving soon. Three people came, all MIT 2023, and none of them knew each other before. After I left for SFO, they all went out and had the time of their life. I felt FOMO in SF for the first time that night. The two weeks I'm leaving are also the last weeks in SF for my YC friends, who are all moving away after YC ends. This was the complete opposite of what I expected to happen when I booked this trip.
+
+---
+<br>
+The first two months of my post-graduation move to SF were rough. I lived in a hacker house with 7 other people. Everyone was a founder except me. That wasn't so bad. The hacker house was honestly a lot better than I expected and nothing like the ones I saw on movies or sitcoms. I felt out of place because I was the only non-Prod resident and the only person who left the house to work during the day. 
+
+The first weeks were awful. Outside of my house, I knew no one in the city. Everyone from MIT was either traveling or working on the East Coast. I work at a 7-person startup as the only female and only Asian in-office, and the closest person to my age is 27. I didn't have a new grad class to hang out with nor a MIT network. Everyone went to Berkeley or Stanford or UCLA and hung out with the people they went to school with. I was lonely and miserable and wanted out of SF. I texted my close friends constantly about how much I hated SF. I called a friend early in the summer and booked a spontaneous trip to Chicago mid-August. When I signed my return offer, I booked a 2-week trip to Boston, NYC, and Arizona at the end of August with the intentions of moving/selling my stuff at MIT but also hanging out with college friends in NYC one more time. When August 25 rolled around though, I didn't want to leave.
+
+I didn't know, but moving out of the hacker house to a long-term lease with three other MIT friends, who are not founders but still work at very small startups, helped a ton. The road to move-in though was difficult. Signing a lease was an adventure because our initial one got voided 12 hours after they sent it, leaving us to scramble, tour, and sign a new one within a week. Assembling furniture was also rough. However, for the first time in my life, I designed and decorated my room and slept in my own, very firm non-twin bed.   
+
+What made it the hardest to leave SF though was the people. The best week of the summer for me was when I had 3 amazing conversations with 3 different people on 3 consecutive days. One was with someone I never thought I'd talk to again after freshman year, another was with someone I had just met in May, and the last was with an old friend I was living with but never had the chance to talk with this summer because we were both so busy. Also the food I had with all three were good 😊. Three very different vibes but three equally good conversations and relationships developed that weekend. Two of them came to the housewarming that night, and I hung out with both the previous weekend.
+
+After that 3-3-3 weekend, I felt this euphoria, contentment, happiness that I hadn't felt all summer. I just had this feeling that SF wasn't so bad after all and that this summer might be my favorite summer in (or just out of) college. I have a theory as to why. Sophomore summer is trivial. Junior summer in NYC was, on the surface, the best summer. I did the most things, met the most people. This summer was the best summer for me on a personal development level.
+
+1. **Work**: Working at a 8-person startup with people who all have 5+ YOE is crazy for my development. I started off the summer with imposter syndrome. I was unsure if they wanted me to contribute and be a rockstar engineer right off the bat like L. Also our work right now is all ML research and I have not taken a ML class/done ML since 6.036 in sophomore spring. Did they simply want me to be a stellar new grad or a goated engineer who could build anything? I wasn't sure what the expectations were so I did my best to contribute. I came in early and left late (I was told to go home one night because my boss didn't want me burning out the first month on the job). I read as many papers as I could. Soft skills wise I definitely grew the most. As not only the youngest person in office but also the only woman, I had to overcome a lot of mental barriers to put myself out there. It was tough inserting myself into conversation and design discussions when I didn't know if I would sound stupid or not or if my comments would even be well-received given my relative inexperience. I've never felt belittled or looked down upon though. D, A, and L always encourage me to speak up and I never feel judged when I suggest something or ask a question. I've gotten a lot more comfortable with the team, and I've grown so much more as an engineer here than I could grow in a year at Stripe or some other big tech company. I love working here.
+
+2. **Personal**: SF is boring. Other than parks and paths, there's not much to do. Taking a stroll through the city is also dangerous because the next street over might be dotted with tents and dealers despite the current street being dominated by majestic Edwardians and dog-walkers. The relative quietness of SF though makes it the perfect place to relax, introspect, and develop deeper relationships. In NYC, there was always things to do. The beach? Food festival? Broadway show? Comedy? I would find myself caught up in the bustle of the city with a group of people for the sake of not doing an activity alone. I met a ton of people and experienced so many things but it felt like I was only hanging out with people for the sake of having people to go with. In SF however, with less external stimulation, I developed deeper relationships with the people I surrounded myself with. There's no rush to make the next social commitment or restaurant reservation. I take my time to talk and cook or stroll with others or myself. As a result, I ended this summer with a much better idea of who I am, who I want to be, and with who I want to spend my time with.
+
+---
+<br>
+
+Fast forward back to August 26 right before I landed in Boston. I was sad that I couldn't hang out with my friends in SF before they left. When I got to campus, I felt disconnected. Freshman and first-year PhDs were moving in that weekend, excited for their next chapters in Cambridge to begin. Meanwhile I spent 4 years familiarizing myself with Kendall and Cambridge and campus. Most of my friends returning for their MEng hadn't moved in yet so MIT didn't feel like MIT to me. It felt like the school I graduated from. 
+
+In my last post, I described the morning in June I realized that MIT would never be the MIT I remembered again. Everything I did or saw on-campus from here on out would always be a warm smile in remembrance of a bygone time. That was how my trip to Boston felt. I walked down the Infinite to remember what it was like to walk down the Infinite. I worked in Stata to remember what it was like to work in Stata. I strolled down the Charles from the sailing pavilion to New to remember what it was like to stroll down the Charles. 
+
+> That's when I realized *I moved on*. I started my new chapter.
+
+Boston still has my heart. I know I'm still an East Coast person and if I were to move back to the East Coast, I would want to settle down in Boston. But as for where I am now in life, SF is home. When I moved from lazy Arizona to preppy Boston for college, I felt similarly uprooted, unfamiliar, and strange. With time though, I grew to love Boston and the newfound culture I embedded myself in. I hope my time in SF will trace the same path from loneliness and disconnect to belonging.
+
+It's already happening.
