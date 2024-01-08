@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Follow-up to "My thoughts on literature"
+title: Revisiting "My thoughts on literature"
 date: 2024-01-07 20:00:00 -08:00
 categories: thoughts, reflection
 tags: [thoughts, reflection]
@@ -23,7 +23,8 @@ Today, I received a reply back. Here are some lines that stood out to me:
 
 > And it's particularly gratifying to me that, if I may plagiarize another saying, a reader should emerge a different person at the end of the book, in however small increments. The reason we read. The reason we share stories. The way we bond, in so many different ways, even if we never meet.
 
----
+---   
+
 After reading her reply, for the first time in years, I remembered the power of literature. I was touched by how literature could connect people through time and space. I imagined how Li must feel, opening her inbox to stories from her readers about what her book meant to them. I felt envious of Li and other artists for possessing that power to touch so many people but also immense respect for her skill and courage in doing so.
 
 I also remembered what I penned a few years ago:
@@ -32,5 +33,6 @@ I also remembered what I penned a few years ago:
 
 Wasn't this how I felt in January 2023 when I read Wang Wei's poem, itself written more than a millenium ago, being recited by someone who lived a century before me and in vastly different circumstances? Isn't this the feeling Li alluded to in her reply: "The way we bond, in so many different ways, even if we never meet"?
 
----
+---   
+
 I felt the urge to write today after reading Li's reply. The result of that is this post. Cheers to more literature in 2024.
